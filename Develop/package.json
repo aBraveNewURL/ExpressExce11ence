@@ -3,8 +3,7 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "start": "node server.js",
-    "devStart": "nodemon server.js"
+    "start": "node server.js"
   },
   "name": "notetaker",
   "description": "## Your Task",
