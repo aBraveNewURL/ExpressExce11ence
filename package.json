@@ -4,6 +4,7 @@
   "description": "Just run the package with \"npm start\", fill in the title and description of the note and hit the \"save\" button in the upper-right hand corner!",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
